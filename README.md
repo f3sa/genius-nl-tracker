@@ -1,5 +1,5 @@
 <center>
-<h1>[<img src="https://images.genius.com/c73ac6936ea6f890c02646fe98987393.650x166x1.png">](20112143)</h1>
+<h1><img src="https://images.genius.com/c73ac6936ea6f890c02646fe98987393.650x166x1.png"></h1>
 
 
 <hr>Lijst van gebruikers waarvan de statistieken
