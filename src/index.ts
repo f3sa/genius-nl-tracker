@@ -6,7 +6,7 @@ process.env.TZ = 'Europe/Amsterdam'
 
 export const session = 
 {
-   ACCESS_TOKEN: 'Z0Zn4aBaAWktNgxK5uCeq0qV3kBsN5ImeY6ainpLcAc-VcWn0TeMaUHkDKRnHm8p',
+   ACCESS_TOKEN: 'ACCESS_TOKEN_HERE',
    MIDNIGHT: new Date().setHours(24, 0, 0, 0),
    NEXT_UPDATE: new Date().setHours(new Date().getHours() + 1, 0, 0, 0)
 }
