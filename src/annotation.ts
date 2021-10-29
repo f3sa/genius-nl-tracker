@@ -21,7 +21,7 @@ export async function updateAnnotation()
       try
       {
          const response = await Axios.put(
-            'https://api.genius.com/annotations/20112143', BODY([lastUpdate(), volgendeUpdate(), ...statistics]),
+            'https://api.genius.com/annotations/ANNOTATION_ID_HERE', BODY([lastUpdate(), volgendeUpdate(), ...statistics]),
             {
                headers: { Authorization: `Bearer ${session.ACCESS_TOKEN}` }
             }
